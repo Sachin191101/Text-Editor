@@ -17,7 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Project Link : https://textedit0rs.netlify.app/
 
-#The assumptions made:
+# The assumptions made:
+
 Font Family: The dropdown menu allows the user to select a font family for the text. It's assumed that the list contains a variety of commonly used font families.
 Variant: The dropdown menu allows the user to select a font variant, like regular, bold, or italic. It's assumed that the list contains the available variants for the selected font family.
 Bold and Italic: These buttons control whether the text is bold and/or italic.
