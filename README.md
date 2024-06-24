@@ -25,6 +25,6 @@ Variant: The dropdown menu allows the user to select a font variant, like regula
 
 Bold and Italic: These buttons control whether the text is bold and/or italic.
 
-Text Area: The large box in the middle is where the text appears, styled based on the selected font family, variant, and style.
+Text Area: The large box in the middle is where the text appears, styled based on the selected font family, variant and style.
 
 Reset and Save: The buttons at the bottom allow the user to reset the text to its default settings or save the current settings.
