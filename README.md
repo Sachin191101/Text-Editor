@@ -28,3 +28,6 @@ Bold and Italic: These buttons control whether the text is bold and/or italic.
 Text Area: The large box in the middle is where the text appears, styled based on the selected font family, variant and style.
 
 Reset and Save: The buttons at the bottom allow the user to reset the text to its default settings or save the current settings.
+
+![image](https://github.com/Sachin191101/Text-Editor/assets/115578203/2bd4012f-b359-4c8a-8af4-fdb4704d222e)
+
